@@ -1,0 +1,11 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: concierge-gourmet
+  host: concierge-gourmet
+  disk_quota: 1024M
+  services:
+  - Cloudant NoSQL DB-mp
+  buildpack: python_buildpack
