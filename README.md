@@ -1,6 +1,6 @@
 # grcon-server
-grcon bluemix server
-Watson API app for hackathons
+grcon bluemix server  
+Watson API app for hackathons  
 
-python
+python  
 flask
